@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tulas_footer">#0ba60b</color>
+    <color name="colorBackground">#f1faf1</color>
+    <color name="colorText">#1e0101</color>
+    <color name="colorTextHint">#061b66</color>
+    <color name="list_text">#0c7e02</color>
+</resources>

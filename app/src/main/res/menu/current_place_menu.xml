@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/send_one_click"
+        android:title="@string/Send_Now"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/option_get_place"
+        android:title="@string/option_get_place"
+        />
+    <item
+        android:id="@+id/send_via"
+        android:title="@string/send_location"
+        />
+    <item
+        android:id="@+id/register"
+        android:title="@string/Enquiry"
+        />
+    <item android:id="@+id/Direct"
+        android:title="Quick Send"/>
+</menu>
